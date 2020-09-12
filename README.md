@@ -45,3 +45,9 @@ deno run --allow-net --allow-read index.js
 ```
 Open url:
 http://localhost:8000/
+
+
+### Running test
+```
+deno test
+```
